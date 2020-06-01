@@ -28,7 +28,7 @@ const Tab2: React.FC = () => {
     <IonButton expand={"block"} style={{width: '45%'}} href={"https://github.com/devbihari"}>
       <IonIcon slot='icon-only' icon={logoGithub} />
     </IonButton>
-    <IonButton style={{width: '45%'}} href={"#"}>
+    <IonButton style={{width: '45%'}} href={"/camera"}>
       <IonIcon slot="icon-only" icon={cameraOutline} />
     </IonButton>    
     </div>
